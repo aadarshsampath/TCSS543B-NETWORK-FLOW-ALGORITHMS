@@ -8,10 +8,6 @@ import java.util.LinkedList;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author anamzahid
- */
 public class FordFulkerson {
     Double maxflow=new Double(0);
     Double bottleneck;

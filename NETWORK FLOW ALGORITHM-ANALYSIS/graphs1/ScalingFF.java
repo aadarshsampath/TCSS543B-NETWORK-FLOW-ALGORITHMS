@@ -7,10 +7,6 @@ import java.util.Iterator;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author anamzahid
- */
 public class ScalingFF {
     Double maxflow=new Double(0);
     Double bottleneck;

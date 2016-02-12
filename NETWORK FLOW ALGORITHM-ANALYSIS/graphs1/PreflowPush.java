@@ -7,10 +7,6 @@ import java.util.Iterator;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author anamzahid
- */
 public class PreflowPush {
     double[] heights;
     double[] excess;

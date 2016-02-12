@@ -6,10 +6,6 @@
 
 package graphs1;
 
-/**
- *
- * @author AadarshSam
- */
 public class tcss543 {
     public static void main(String args[])
     {
